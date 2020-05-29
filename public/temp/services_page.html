@@ -1,0 +1,39 @@
+<div class="PageQuote">
+    <h2 class="PageMoto">
+        <span class="PageTitle">%=title%</span>
+        %=moto%
+    </h2>
+</div>
+<div class="servicesPage">
+    <p>
+        %=text%
+    </p>
+    <div class="jumperList">
+        <ul>
+            %each([servicesitems])%
+            <li class="serviceItem%=$index == 0 ? " active" : ""%">
+                <a href="#services_%=id%" rel="services_%=id%" class="serviceItemLink">
+                    %=this.title.replace("+","<br/>+")%
+                    <span class="etriangle"></span>
+                </a>
+            </li>
+            %/each%
+        </ul>
+    </div>
+    <div id="servicesArea">
+        %each([servicesitems])%
+        <div id="services_%=id%" class="service">
+            <h3 class="serviceTitle georgia italic">
+                %=this.title%
+            </h3>
+            %=text%
+        </div>
+        %/each%
+    </div>
+    <div id="bannerArea">
+        %each([banners])%
+            %=banner_widget%
+        %/each%
+    </div>
+    <div class="clearBoth"></div>
+</div>

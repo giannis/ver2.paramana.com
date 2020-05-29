@@ -1,0 +1,23 @@
+{
+    "id": "biribiri",
+    "title": "Biri Biri Band",
+    "keywords": "paramana, work, project, Biri Biri Band website, design & development",
+    "description": "Τhe website of Biri Biri Band was designed and developed by Paramana.com",
+    "maintext": "<p>The funky website of a funk band!</p><p>Biri Biri is an eight-members group first seen on stage in Heraklion Crete.</p><p>Their website includes demo tracks fromtheir first album as well as a photo album, a guuest book, a poster's archive, videos and interesting links.</p><p>With jQuery animations and a minimal design based the band's logo, we wanted the website to match the band's style pleasing both the artists and their fans!</p>",
+    "techstext": "XHTML, CSS, JavaScript, ΧΜL, PHP, MySQL",
+    "servicestext": "Web Design & Development, Maintainance",
+    "bottomtext": "See  the live website at <a href=\"http://biribiriband.com\">http://biribiriband.com &raquo; </a>",
+    "gallery": [
+        "biribiri0.jpg",
+        "biribiri1.jpg",
+        "biribiri2.jpg"
+    ],
+    "prevWork": {
+        "id": "delivericious",
+        "title": "Delivericious"
+    },
+    "nextWork": {
+        "id": "amongtheants",
+        "title": "Among the Ants"
+    }
+}

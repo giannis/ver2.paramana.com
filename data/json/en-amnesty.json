@@ -1,0 +1,23 @@
+{
+    "id": "amnesty",
+    "title": "Amnesty International",
+    "keywords": "paramana, work, project, amnesty international website, design & development",
+    "description": "Amnesty International's website was designed and developed by Paramana.com",
+    "maintext": "<p>The Greek Department of Amnesty International has renewed their official website. We made sure the result would stand out amongst other of its kind.</p><p>We designed the new Wordpress theme and added many more functional widgets, so that the team of the organisation could have full control over the appearence, administation and maintanance of the site's articles and the organisation's press releases.</p>",
+    "techstext": "XHTML, CSS, JavaScript, JSON, PHP, MySQL, WordPress",
+    "servicestext": "Web Design & Development",
+    "bottomtext": "See  the live website at <a href=\"http://amnesty.org.gr\">http://amnesty.org.gr &raquo; </a>",
+    "gallery": [
+        "amnesty0.jpg",
+        "amnesty1.jpg",
+        "amnesty2.jpg"
+    ],
+    "prevWork": {
+        "id": "anasilian",
+        "title": "Αnasilian"
+    },
+    "nextWork": {
+        "id": "apollonion",
+        "title": "Apollonion Palace"
+    }
+}

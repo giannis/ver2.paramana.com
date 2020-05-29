@@ -1,0 +1,23 @@
+{
+    "id": "biribiri",
+    "title": "Biri Biri",
+    "keywords": "paramana, δειγματα δουλειας, project, Biri Biri website, σχεδιασμος και αναπτυξη ιστοσελιδας",
+    "description": "Το site των Biri Biri σχεδιαστηκε και δημιουργηθηκε απο την Paramana.com",
+    "maintext": "<p>Το funky website μιας funk μπάντας.</p><p>Οι Biri Biri ειναι ενα οκταμελές συγκρότημα που πρωτο-εμφανίστηκε στο Ηράκλειο της Κρήτης.</p><p>Το website τους περιλαμβάνει ηχητικά απο το album καθως και φωτογραφικό album, guest book, αρχείο αφίσας, video, νέα και links.</p><p>Με χρήση jQuery animations και minimal design βασισμένο στο logo του συγκροτήματος, το website θελαμε να ταιριαξει με το ύφος και το στυλ, αφήνοντας ικανοποιημένους καλλιτέχνες και fans!</p>",
+    "techstext": "XHTML, CSS, JavaScript, ΧΜL, PHP, MySQL",
+    "servicestext": "Web Design & Development, Maintainance",
+    "bottomtext": "Δειτε την ολοκληρωμένη δουλεια στο <a href=\"http://biribiriband.com\">http://biribiriband.com &raquo; </a>",
+    "gallery": [
+        "biribiri0.jpg",
+        "biribiri1.jpg",
+        "biribiri2.jpg"
+    ],
+    "prevWork": {
+        "id": "delivericious",
+        "title": "Delivericious"
+    },
+    "nextWork": {
+        "id": "amongtheants",
+        "title": "Among the Ants"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "apollonion",
+    "title": "Απολλώνιον Palace",
+    "keywords": "paramana, δειγματα δουλειας, project, Απολλώνιον Palace website, σχεδιασμος  και αναπτυξη ιστοσελιδας",
+    "description": "Το site του Απολλώνιον Palace σχεδιαστηκε και δημιουργηθηκε απο την Paramana.com",
+    "maintext": "<p>Το Απολλώνειον Palace είναι ένα πολυτελές ξενοδοχείο στη Σύρο. Στοιχεία εκκίνησης το logo και η business card του ξενοδοχείου.</p><p>Προκληση σε αυτο το project αποτέλεσε η κατασκευή ενος έξυπνου συστήματος online κρατήσεων σχεδιασμένο ειδικά για τις ανάγκες του ξενοδοχείου.</p><p>Σχεδιάστηκε παράλληλα το σύστημα διαχείρησης των κρατήσεων με επιπλέον λειτουργίες άμεσης ενημέρωσης μέσω mail, καταχώρηση στοιχείων πελατών, αλλαγή τιμολόγησης, δημοσίευση προσφορών και άλλα.</p><p>To site υποστηρίζει τέσσερις γλώσσες και είναι στημένο για εύκολη προσαρμογή cms για αλλαγή των κειμένων του.</p>",
+    "techstext": "XHTML, CSS, JavaScript, ΧΜL, PHP, MySQL",
+    "servicestext": "Web Design & Development, Hosting",
+    "bottomtext": "Δειτε την ολοκληρωμένη δουλεια στο <a href=\"http://apollonionpalace.gr\">http://apollonionpalace.gr &raquo; </a>",
+    "gallery": [
+        "apollonion0.jpg",
+        "apollonion1.jpg",
+        "apollonion2.jpg"
+    ],
+    "prevWork": {
+        "id": "amnesty",
+        "title": "Διεθνής Αμνηστία"
+    },
+    "nextWork": {
+        "id": "figos",
+        "title": "Φηγός"
+    }
+}

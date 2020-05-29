@@ -1,0 +1,17 @@
+{
+    "ui_visit_site"            : "Visit:",
+    "ui_technologies"          : "Technologies",
+    "ui_readmore"              : "read more",
+    "ui_nameContact"           : "Name",
+    "ui_emailContact"          : "Your e-mail",
+    "ui_phoneContact"          : "A telephone number",
+    "ui_messageContact"        : "Your message:",
+    "ui_sendContact"           : "Send it!",
+    "ui_clicktomap"            : "click for google map",
+    "ui_nameContactError"      : "A name is required",
+    "ui_emailContactError"     : "An email is required",
+    "ui_emailContactWrong"     : "Your email is wrong",
+    "ui_phoneContactError"     : "Your telephone is wrong",
+    "ui_messageContactError"   : "Your message is empty",
+    "ui_messageContactShort"   : "Your message is too short"
+}

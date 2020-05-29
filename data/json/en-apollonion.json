@@ -1,0 +1,23 @@
+{
+    "id": "apollonion",
+    "title": "Apollonion Palace",
+    "keywords": "paramana, work, project, Apollonion Palace website, design & development",
+    "description": "Τhe website of Apollonion Palace was designed and developed by Paramana.com",
+    "maintext": "<p>Apollonion Palace is a luxury hotel in Syros. The web design's starting points were the logo and the hotel's business card.</p><p>This project's challenge was the construction of a smart system for online bookings, specifiaclly designed for the needs of the hotel.</p><p>We also designed the administration part of the booking system, with many functionalities such as direct notifications through e-mail, client information management, price editing, management and publication of offers e.t.c.</p><p>The website is multilingual; now supporting four languages and is designed carefully for future CMS implementation for text editing and photo management.</p>",
+    "techstext": "XHTML, CSS, JavaScript, ΧΜL, PHP, MySQL",
+    "servicestext": "Web Design & Development, Hosting",
+    "bottomtext": "See  the live website at <a href=\"http://apollonionpalace.gr\">http://apollonionpalace.gr &raquo; </a>",
+    "gallery": [
+        "apollonion0.jpg",
+        "apollonion1.jpg",
+        "apollonion2.jpg"
+    ],
+    "prevWork": {
+        "id": "amnesty",
+        "title": "Amnesty International"
+    },
+    "nextWork": {
+        "id": "figos",
+        "title": "Figos Furnitures"
+    }
+}

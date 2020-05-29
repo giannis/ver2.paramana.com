@@ -1,0 +1,10 @@
+{
+    "id": "404",
+    "title": "404 - Page not found.",
+    "keywords": "not found",
+    "description": "the page you are looking for could not be found",
+    "oops":"Whoops!",
+    "subtitle":"We cant’t find what you’re looking for.",
+    "trytext":"Maybe you could try one of the followings:",
+    "links":"<a href=\"/en/contact.html\" title=\"contact with us\">Contact</a> | <a href=\"/en/services.html\" title=\"our services\">Services</a>"
+}

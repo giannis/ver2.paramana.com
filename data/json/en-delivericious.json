@@ -1,0 +1,23 @@
+{
+    "id": "delivericious",
+    "title": "Delivericious",
+    "keywords": "paramana, work, project, Delivericious website, design & development",
+    "description": "Τhe website of Delivericious was designed and developed by Paramana.com",
+    "maintext": "<p>Online search engine of food-delivery in Athens.</p><p> A simple idea, a big project; Delivericious is the home-project of paramana.com.</p><p>The website one needs those cold winter days when the fridge is empty and the food-delivery brochures somewhere you just can't remember..</p><p>Simply fill-in your location, chose a food-type and wait for the results to pop up!</p><p>This web service intuitively lets users to choose and make their order, overview the total cost of it and compare betweenavailable delivery stores in their neighborhood.</p>",
+    "techstext": "XHTML, CSS, JavaScript, ΧΜL, PHP, MySQL",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "See  the live website at <a href=\"http://delivericious.gr\">http://delivericious.gr &raquo; </a>",
+    "gallery": [
+        "delivericious0.jpg",
+        "delivericious1.jpg",
+        "delivericious2.jpg"
+    ],
+    "prevWork": {
+        "id": "figos",
+        "title": "Figos Furnitures"
+    },
+    "nextWork": {
+        "id": "biribiri",
+        "title": "Biri Biri Band"
+    }
+}

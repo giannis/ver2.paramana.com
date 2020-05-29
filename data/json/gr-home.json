@@ -1,0 +1,38 @@
+{
+    "pageid": "home",
+    "title": "Home",
+    "keywords":"",
+    "keywords":" paramana.com, υπηρεσιες web, ιστοσελιδες, hosting, seo, domain names, statistics, e-shop, photo gallery, διαχειρηση website, sysadmin, administration, συμβουλετικες υπηρεσιες web, ομορφα λειτουργικα site, web design, web development, web projects, clients",
+    "description":"Σχεδιασμός και ανάπτυξη όμορφων και λειτουργικών ιστοσελίδων. Εγγυημένη αύξηση ROI",
+    "seoopth3": "work samples",
+    "whatwedo": "Η paramana ειδικευεται στην κατασκευη ιστοσελίδων για επαγγελματική, προσωπική, και καλλιτεχνική χρήση.",
+    "whoweareupper": "H paramana δημιουργηθηκε το 2006 μετρωντας σημερα πανω απο 20 project. Αποτελειται από νέους επαγγελματίες με επιτυχημενη επαγγελματική εμπειρία στο χώρο του Internet.",
+    "whowearedown": "Η δημιουργικότητα, η προσοχή στη λεπτομέρεια και η έμφαση στη φιλικότητα χρησης εγκυώνται την κατασκευή της ιστοσελιδας σας, ετσι οπως θα θελατε εσεις και οι επισκεπτες σας να ειναι.",
+    
+    "howstep1":"καθε project ξεκιναει με ερευνα σχετικα με τους στοχους του και το κοινο στο οποιο απευθυνεται",
+    "howstep2":"οργανωνονται τα σταδια αναπτυξης το χρονοδια- γραμμα και ο τροπος επιβλεψης του εργου.",
+    "howstep3":"σε συνεχη επικοινωνια με τον πελατη αναπτυσσεται η ιστοσελιδα μεχρι την ολοκληρωση και τελικη παραδοση της.",
+    
+    "section1":"<h4>SITE Για επιχειρησεις, οργανισμους, ιδιωτες</h4><ul><li>Άρτια γραφιστικά και λειτουργικά websites.</li><li>E-mails, News Letters, Δικτύωση</li><li>Online παραγγελίες και κρατήσεις</li><li>E-shops, gallery προϊόντων, παραγγελιοληψία.</li><li>Logo, business cards.</li></ul><a href=\"services.html\" class=\"georgia italic\">Περισσότερα &raquo;</a>",
+    "section2":"<h4>Προϊοντα τελευταιας τεχνολογιας</h4><ul><li><strong>SLiM.</strong> <span class=\"sectSpan\">Διαχείρηση Περιεχομένου.</span></li><li><strong>Easy Room.</strong> <span class=\"sectSpan\">Online Κρατήσεις, Διαχείρηση Τιμών και Πελατών</span></li><li><strong>Delicious.</strong> <span class=\"sectSpan\">Online Παραγγελιοληψία, Διαχείρηση Καταλόγου και Παραγγελιών</span></li></ul><a href=\"services.html\" class=\"georgia italic\">Περισσότερα &raquo;</a>",
+    "theteam":"<p class=\"col-13\">Η κεντρική ομάδα της paramana:</p><p class=\"col-13\"><strong>Γιάννης Π.</strong> Front-end | Javascript Programmer <br /><strong>Χριστίνα Π.</strong> Web & Interaction Designer <br /><strong>Αντώνης Μ.</strong> Back-end | PHP Programmer</p>",
+    "joinin": "<p class=\"col-13\">Είσαι designer ή developer? Έχεις να προτείνεις ένα project? Eπικοινώνησε για να <a href=\"contact.html\" class=\"georgia italic\">συνεργαστείς μαζί μας</a>!</p>",
+
+    "carouselitems": [
+        {
+            "title": "Φτιάχνουμε τα sites που<br />&nbsp;&nbsp;&nbsp;&nbsp; πάντα θέλατε να είχατε!",
+            "text": "Με τις τελευταίες τεχνολογιες του Internet κατασκευάζουμε αξιοπιστα συστηματα που καλυπτουν τους στοχους σας και τις αναγκες του κοινου σας.<br /><br /><a href=\"work.html\">Δείτε δείγματα της δουλείας μας &raquo;</a><br /><a href=\"services.html\">Τι μπορουμε να κάνουμε για σας &raquo;</a><br /><a href=\"contact.html\">Ζητήστε μας προσφορά &raquo;</a>",
+            "bg": "images/carousel/s1.png"
+        },
+        {
+            "title": "Η μοναδικότητα κάθε ιστοσελίδας <br />&nbsp;&nbsp;&nbsp;&nbsp; εξασφαλίζεται από την προσοχή <br />&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; που δίνουμε στη λεπτομέρια",
+            "text": "Η επιτυχία μιας ιστοσελιδας μετριεται στο σεβασμο για τον χρηστη της. Η προσεγμένη δουλειά μας δημιουργεί μοναδικες ιστοσελιδες που οι χρηστες σας θα  θελουν να επισκεπτονται καθημερινα.",
+            "bg": "images/carousel/s2.png"
+        },
+        {
+            "title": "Εξυπνα Συστηματα Διαχειρησης<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Προϊόντων και Περιεχομένου",
+            "text": "Δυναμικα Συστηματα Διαχειρησης φιλικα στη χρηση, προσαρμοσμενα στις αναγκες σας, γρηγορα στις ταχυτητες τους και αξιοπιστα.<br /><br />Iδανικά για μικρές επιχειρήσεις, ξενοδοχιακές μονάδες και καταστήματα delivery. <a href=\"services.html\">Δείτε περισσότερα &raquo;</a>",
+            "bg": "images/carousel/s4.png"
+        }
+    ]
+}

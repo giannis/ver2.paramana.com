@@ -1,0 +1,23 @@
+{
+    "id": "cubiccloud",
+    "title": "Cubic Cloud",
+    "keywords": "paramana, work, project, Cubic Cloud website, design & development",
+    "description": "Τhe website of Cubic Cloud was designed and developed by Paramana.com",
+    "maintext": "<p>Portfolio Case: cubiccloud</p><p>Personal work presentation in a black portfolio format, with black and white decorative photos. </p>",
+    "techstext": "XHTML, CSS, JavaScript",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "See  the live website at <a href=\"http://cubiccloud.com\">http://cubiccloud.com &raquo; </a>",
+    "gallery": [
+        "cubiccloud0.jpg",
+        "cubiccloud1.jpg",
+        "cubiccloud2.jpg"
+    ],
+    "prevWork": {
+        "id": "kstudios",
+        "title": "K Studios"
+    },
+    "nextWork": {
+        "id": "anasilian",
+        "title": "Anasilian"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "cubiccloud",
+    "title": "Cubic Cloud",
+    "keywords": "paramana, δειγματα δουλειας, project,Cubic Cloud website, σχεδιασμος  και αναπτυξη ιστοσελιδας",
+    "description": "Το site του Cubic Cloud σχεδιαστηκε και δημιουργηθηκε απο την Paramana.com",
+    "maintext": "<p>Portfolio Case: cubiccloud</p><p>Παρουσίαση της προσωπικής δουλειάς σε μορφή portfolio σε μαυρα χρώματα, και ασπρόμαυρες φωτογραφίες.</p>",
+    "techstext": "XHTML, CSS, JavaScript",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "Δειτε την ολοκληρωμένη δουλεια στο <a href=\"http://cubiccloud.com\">http://cubiccloud.com &raquo; </a>",
+    "gallery": [
+        "cubiccloud0.jpg",
+        "cubiccloud1.jpg",
+        "cubiccloud2.jpg"
+    ],
+    "prevWork": {
+        "id": "kstudios",
+        "title": "K Studios"
+    },
+    "nextWork": {
+        "id": "anasilian",
+        "title": "Anasilian"
+    }
+}

@@ -1,0 +1,15 @@
+<div class="PageQuote">
+    <h2 class="PageMoto">
+        <span class="PageTitle">%=title%</span>
+        %=moto%
+    </h2>
+</div>
+<div class="workPage">
+    <h3 class="workItem intro">
+        %=text%
+    </h3>
+    %each([workitems])%
+        %=workitem_widget%
+    %/each%
+    <div style="clear:both"></div>
+</div>

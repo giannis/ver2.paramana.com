@@ -1,0 +1,23 @@
+{
+    "id": "kstudios",
+    "title": "K Studios",
+    "keywords": "paramana, work, project, K Studios website, design & development",
+    "description": "Τhe website of K Studios was designed and developed by Paramana.com",
+    "maintext": "<p>A simple adorable site of renting studios in Chalkidiki.</p><p>Developed to have the absolutely nessecary for a website of its category, without no compromises on the design and functionality.</p><p>The website includes a photo-gallery of the rooms, a request-booking form, presentation of the hotel and the village where it is located at, as well as information on the local events, useful phone numbers and available activities.</p><p>The bookings management weight has been moved to a personal e-mail created for this puprose according to the client's wish. </p>",
+    "techstext": "XHTML, CSS, PHP",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "See  the live website at <a href=\"http://oikonomou.k-studios.gr\">http://oikonomou.k-studios.gr &raquo; </a>",
+    "gallery": [
+        "kstudios0.jpg",
+        "kstudios1.jpg",
+        "kstudios2.jpg"
+    ],
+    "prevWork": {
+        "id": "amongtheants",
+        "title": "Among the Ants"
+    },
+    "nextWork": {
+        "id": "cubiccloud",
+        "title": "Cubic Cloud"
+    }
+}

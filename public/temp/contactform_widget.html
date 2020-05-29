@@ -1,0 +1,34 @@
+<form class="contactForm" action="">
+    <div class="forma">
+        <h3 class="seoOpt">
+            Contact form
+        </h3>
+        <div class="coverDisable"></div>
+        <input id="nameContact" type="text" name="nameContact" class="contactField" value="" />
+        <label for="nameContact">%=ui_nameContact%</label>
+        <input id="emailContact" type="text" name="emailContact"  class="contactField" value="" />
+        <label for="emailContact">%=ui_emailContact%</label>
+        <input id="phoneContact" type="text" name="phoneContact"  class="contactField" value="" />
+        <label for="phoneContact">%=ui_phoneContact%</label>
+        <label id="messageLabelContact" for="messageContact">%=ui_messageContact%</label>
+        <textarea id="messageContact" name="messageContact" class="contactField" cols="40" rows="8"></textarea>
+        <div id="sendContactDiv">
+            <div id="disableSendContact"> </div>
+            <a id="sendContact" class="buttonEl greenBtn" href="#sendContact">
+                <span class="btnLeft"> </span>
+                <span class="btnRight"> </span>
+                <span class="btnContent">
+                    %=ui_sendContact%
+                </span>
+            </a>
+        </div>
+    </div>
+    <div class="contactErrors">
+        <label class="error" for="nameContact" id="nameContactError">%=ui_nameContactError%</label>
+        <label class="error" for="emailContact" id="emailContactError">%=ui_emailContactError%</label>
+        <label class="error" for="emailContact" id="emailContactWrong">%=ui_emailContactWrong%</label>
+        <label class="error" for="phoneContact" id="phoneContactError">%=ui_phoneContactError%</label>
+        <label class="error" for="messageContact" id="messageContactError">%=ui_messageContactError%</label>
+        <label class="error" for="messageContact" id="messageContactShort">%=ui_messageContactShort%</label>
+    </div>
+</form>

@@ -1,0 +1,11 @@
+uparxei function gia mailto encryption otan forwnetai to data
+
+otan kati einai replacable apo data mesa sto template to grafoume anamesa se %
+px: %jimmys_panousis%
+
+ta sumbola _(katw paula), -(paula), |(pipe) einai reserved characters kai xrhsimopoiountai apo to engine (isws prostetoun kai merika akoma)
+
+gia na valoume ena widget mesa se ena page template grafoume:
+%to onoma tou widget _widget%
+px: %banner_widget%
+

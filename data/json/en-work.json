@@ -1,0 +1,55 @@
+{
+    "pageid": "work",
+    "title": "Work",
+    "keywords":"web services, websites, hosting, seo, domain names, statistics, e-shop, photo gallery, website maintainance, sysadmin, administration, consulting advising, websites, bautiful, functional, web design, web development",
+    "description":"We design and develop your website. We promote and make your business known in the Internet world",
+    "moto" : "We build from scratch <br />to create your unique website",
+    "text": "We proudly present you the websites we've created! In each one of them we've put our minds, experience and creativity together for an attractive and usable outcome. Here you can find some of our latest works.",
+    "workitems": [
+        {
+            "itemid": "amnesty",
+            "title" : "Amnesty International",
+            "text" : "The Greek Department of Amnesty International has renewed their official website.<br /><br />We made sure the result would stand out amongst other of its kind.<br /><br />We designed the new ..."
+        },
+        {
+            "itemid": "apollonion",
+            "title" : "Apollonion Palace",
+            "text" : " Apollonion Palace is a luxury hotel in Syros.<br /><br />This project's challenge was the construction of a smart system ..."
+        },
+        {
+            "itemid": "figos",
+            "title" : "Figos Furnitures",
+            "text" : "This website aims to present and promote the Figos start-up's company products, mainly chairs and furniture for restaurants.<br /><br />A clean webdesign based on wooden textures and the company's creation..."
+        },
+        {
+            "itemid": "delivericious",
+            "title" : "Delivericious",
+            "text" : "Online search engine of food-delivery in Athens <br /><br />A simple idea, a big project; Delivericious is the home-project of paramana.com.<br /><br />Simply fill-in your location, chose a food-type and wait for the results to pop up!"
+        },
+        {
+            "itemid": "biribiri",
+            "title" : "Βiri Βiri Band",
+            "text" : "The funky website of a funk band<br /><br />Biri Biri is an eight-members group first seen on stage in Heraklion Crete.<br /><br />Their website includes demo tracks fromtheir first album as well as..."
+        },
+        {
+            "itemid": "amongtheants",
+            "title" : "Αmong Τhe Αnts",
+            "text" : "Among the ants is a non-profit organisation commit in street art festivals.<br /><br />Their dynamic page based on Wordpress presents their profile, announcements and photographic material ..."
+        },
+        {
+            "itemid": "kstudios",
+            "title" : "K Studios",
+            "text" : "A simple adorable site of renting studios in Chalkidiki.<br /><br />Developed to have the absolutely nessecary for a website of its category, without no compromises on the design and functionality."
+        },
+        {
+            "itemid": "cubiccloud",
+            "title" : "Cubic Cloud",
+            "text" : "Portfolio Cubic Cloud<br />"
+        },
+        {
+            "itemid": "anasilian",
+            "title" : "Anasilian",
+            "text" : "Portfolio Anasilian<br />"
+        }
+    ]
+}

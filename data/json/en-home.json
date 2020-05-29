@@ -1,0 +1,36 @@
+{
+    "pageid": "home",
+    "title": "Home",
+    "keywords":" paramana.com, web services, websites, hosting, seo, domain names, statistics, e-shop, photo gallery, website maintainance, sysadmin, administration, web consulting, advising, bautiful, functional, web design, web development, web projects, clients",
+    "description":"Web Design and Development of beautiful and usability-centered Websites.",
+    "seoopth3": "work samples",
+    "whatwedo": "Paramana specializes in web design and website development for business, personal and artistic use.",
+    "whoweareupper": "Paramana created in 2006 and today we count more than 20 project and as many happy customers. The group consists of young professionals with fresh ideas and years of experience in web design and development.",
+    "whowearedown": "Creativity, attention to detail, pixel perfection and the emphasis on usable interfaces are our guides to developing attractive websites for you and your visitors.",
+
+    "howstep1":"research on the goals and the target group is our starting point",
+    "howstep2":"organising the development stages, millestones and collaboration process",
+    "howstep3":"with your valuable feedback we develop your website to its fully working version",
+    "section1":"<h4>SITE SITES For companies, organizations, you</h4><ul><li>Beautifull and functional websites.</li><li>E-mails, News Letters, Networking</li><li>Online orders and booking</li><li>E-shops, products' gallery, ordering.</li><li>Logo, business cards.</li></ul><a href=\"services.html\" class=\"georgia italic\">Read More &raquo;</a>",
+    "section2":"<h4>Latest Technology Products</h4><ul><li><strong>SLiM.</strong> <span class=\"sectSpan\">Content Management.</span></li><li><strong>Easy Room.</strong> <span class=\"sectSpan\">Online Booking, Prices and Customers Management</span></li><li><strong>Delicious.</strong> <span class=\"sectSpan\">Online Ordering, Menu and Order Management</span></li></ul><a href=\"services.html\" class=\"georgia italic\">Read More &raquo;</a>",
+    "theteam":"<p class=\"col-13\">Core team of Paramana.com:</p><p class=\"col-13\"><strong>Giannis P.</strong> Front-end | Javascript Programmer <br /><strong>Christina P.</strong> Web & Interaction Designer <br /><strong>Antonis M.</strong> Back-end | PHP Programmer</p>",
+    "joinin": "<p class=\"col-13\">Are you a designer or a developer? You have a project in mind? Contact us <a href=\"contact.html\" class=\"georgia italic\">to join in</a>!</p>",
+
+    "carouselitems": [
+        {
+            "title": "We can create the website<br />&nbsp;&nbsp;&nbsp;&nbsp; you always wanted to have!",
+            "text": "By using the latest features of web technologies we build reliable systems that cover your goals and needs of your audience.<br /><br /><a href=\"work.html\">Samples of our work &raquo;</a><br /><a href=\"services.html\">What can we can do for you &raquo;</a><br /><a href=\"contact.html\">Ask for a quote &raquo;</a>",
+            "bg": "images/carousel/s1.png"
+        },
+        {
+            "title": "Attention in detail guarantees<br />&nbsp;&nbsp;&nbsp;&nbsp; the uniqueness of our work <br />",
+            "text": "The success of a website is measured in respect to the usability and how the users experience it. With care and devotion we create unique websites that users will want to visit again and again.",
+            "bg": "images/carousel/s2.png"
+        },
+        {
+            "title": "Smart Management Systems<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; for Products and Content",
+            "text": "Dynamical Systems Management easy to use, tailored to your needs, fast and reliable.<br /><br />Ideal for small businesses, rent-rooms hotels and resorts and food-delivery restaurants.<br /><br /><a href=\"services.html\">Read More &raquo;</a>",
+            "bg": "images/carousel/s4.png"
+        }
+    ]
+}

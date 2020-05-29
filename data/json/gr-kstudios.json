@@ -1,0 +1,23 @@
+{
+    "id": "kstudios",
+    "title": "K Studios",
+    "keywords": "paramana, δειγματα δουλειας, project, K Studios website, σχεδιασμος  και αναπτυξη ιστοσελιδας",
+    "description": "Το site των K Studios σχεδιαστηκε και δημιουργηθηκε απο την Paramana.com",
+    "maintext": "<p>Aπλό κι ευχάριστο site ενοικιαζόμενων δωματίων στη Χαλκιδική.</p><p>Σχεδιασμένο με τα απολύτως απαραίτητα στοιχεία για ένα website της κατηγορίας του, χωρίς εκπτώσεις στην αισθητική του.</p><p>Περιέχει φωτογραφική gallery και φόρμα αίτησης για κράτηση δωματίων, παρουσίαση του ξενοδοχείου, του χωριού και των δραστηριοτήτων της κοινότητας, καθώς και χρήσιμα τηλέφωνα για τους παραθεριστές.</p><p>Το βάρος της διαχείρησης των κρατήσεων έχει μεταφερθεί σε ατομικό e-mail του υπεύθυνου του ξενοδοχείου που δημιουργήθηκε γι αυτό το λόγο.</p>",
+    "techstext": "XHTML, CSS, PHP",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "Δειτε την ολοκληρωμένη δουλεια στο <a href=\"http://oikonomou.k-studios.gr\">http://oikonomou.k-studios.gr &raquo; </a>",
+    "gallery": [
+        "kstudios0.jpg",
+        "kstudios1.jpg",
+        "kstudios2.jpg"
+    ],
+    "prevWork": {
+        "id": "amongtheants",
+        "title": "Among the Ants"
+    },
+    "nextWork": {
+        "id": "cubiccloud",
+        "title": "Cubic Cloud"
+    }
+}

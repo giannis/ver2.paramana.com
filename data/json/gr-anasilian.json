@@ -1,0 +1,24 @@
+
+{
+    "id": "anasilian",
+    "title": "Anasilian",
+    "keywords": "paramana, δειγματα δουλειας, project,Anasilian website, σχεδιασμος  και αναπτυξη ιστοσελιδας",
+    "description": "Το site της Anasilian σχεδιαστηκε και δημιουργηθηκε απο την Paramana.com",
+    "maintext": "<p>Portfolio Case: Anasilian</p><p>Παρουσίαση της προσωπικής δουλειάς και του protfolio σε grunge και fully textured background.</p>",
+    "techstext": "XHTML, CSS, JavaScript",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "Δειτε την ολοκληρωμένη δουλεια στο <a href=\"http://anasilian.com\">http://anasilian.com &raquo; </a>",
+    "gallery": [
+        "anasilian0.jpg",
+        "anasilian1.jpg",
+        "anasilian2.jpg"
+    ],
+    "prevWork": {
+        "id": "cubiccloud",
+        "title": "Cubic Cloud"
+    },
+    "nextWork": {
+        "id": "amnesty",
+        "title": "Διεθνής Αμνηστία"
+    }
+}

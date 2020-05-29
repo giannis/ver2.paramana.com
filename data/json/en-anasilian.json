@@ -1,0 +1,23 @@
+{
+    "id": "anasilian",
+    "title": "Anasilian",
+    "keywords": "paramana, work, project, Anasilian website, design & development",
+    "description": "Τhe website of Anasilian was designed and developed by Paramana.com",
+    "maintext": "<p>Portfolio Case: Anasilian</p><p>Personal work presentation in a grunge and fully textured portfolio format.</p>",
+    "techstext": "XHTML, CSS, JavaScript",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "See  the live website at <a href=\"http://anasilian.com\">http://anasilian.com &raquo; </a>",
+    "gallery": [
+        "anasilian0.jpg",
+        "anasilian1.jpg",
+        "anasilian2.jpg"
+    ],
+    "prevWork": {
+        "id": "cubiccloud",
+        "title": "Cubic Cloud"
+    },
+    "nextWork": {
+        "id": "amnesty",
+        "title": "Amnesty International"
+    }
+}

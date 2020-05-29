@@ -1,0 +1,23 @@
+{
+    "id": "figos",
+    "title": "Φηγός",
+    "keywords": "paramana, δειγματα δουλειας, project,among the ants website, σχεδιασμος  και αναπτυξη ιστοσελιδας",
+    "description": "Το site της Φηγός (Figos Furnitures) σχεδιαστηκε και δημιουργηθηκε απο την Paramana.com",
+    "maintext": "<p>Η ιστοσελίδα στοχεύει στην παρουσίαση της εταιρείας Φηγός και των προϊόντων της: κατά κύριο λόγο καρέκλες και τραπέζια καφενείου και πολυθρόνες σκηνοθέτη.</p><p>Καθαρό μοντέρνο design με βάση το ξύλο και τις δημιουργίες της εταιρείας, φωτο-παρουσίαση των προϊόντων, δήλωση της τοποθεσίας στους χάρτες της Google και πλήθος άλλων μεθόδων επιστρατεύτηκανγια την ολοκληρωμένη παρουσίασή της.</p><p>H ανανέωση των φωτογραφιών γίνεται μέσα από το SLiM system, ένα ελαφρύ και εύχρηστο σύστημα διαχείρησης για μικρού μεγέθους site.</p>",
+    "techstext": "XHTML, CSS, JavaScript, ΧΜL, PHP, MySQL, SLiM (Simple Lightweight Management)",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "Δειτε την ολοκληρωμένη δουλεια στο <a href=\"http://figos-karekla.gr\">http://figos-karekla.gr &raquo; </a>",
+    "gallery": [
+        "figos0.jpg",
+        "figos1.jpg",
+        "figos2.jpg"
+    ],
+    "prevWork": {
+        "id": "apollonion",
+        "title": "Απολλώνιον Palace"
+    },
+    "nextWork": {
+        "id": "delivericious",
+        "title": "Delivericious"
+    }
+}

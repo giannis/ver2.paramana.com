@@ -1,0 +1,23 @@
+{
+    "id": "amnesty",
+    "title": "Διεθνής Αμνηστία",
+    "keywords": "paramana, δειγματα δουλειας, project, amnesty international website, σχεδιασμος  και αναπτυξη ιστοσελιδας",
+    "description": "Το site της Διεθνους Αμνηστιας σχεδιαστηκε και δημιουργηθηκε απο την Paramana.com",
+    "maintext": "<p>Το ανανεωμένο site της Διεθνούς Αμνηστίας.</p><p>Το ελληνικό τμήμα της Διεθνούς Αμνηστίας ανανέωσε το διαδικτυακό του χώρο. Φροντίσαμε το νέο site να είναι αντάξιο των αντιστοιχων των αλλων χωρών.</p><p>Σχεδιάσαμε το νέο theme και προσθέσαμε πολλά νέα λειτουργικά κομμάτια (widgets) στο σύστημα του WordPress, ώστε η διαχειριστική ομάδα της οργάνωσης να έχει απόλυτο έλεγχο στην εμφάνιση των άρθρων και των δελτίων τύπου της.</p>",
+    "techstext": "XHTML, CSS, JavaScript, JSON, PHP, MySQL, WordPress",
+    "servicestext": "Web Design & Development",
+    "bottomtext": "Δειτε την ολοκληρωμένη δουλεια στο <a href=\"http://amnesty.org.gr\">http://amnesty.org.gr &raquo; </a>",
+    "gallery": [
+        "amnesty0.jpg",
+        "amnesty1.jpg",
+        "amnesty2.jpg"
+    ],
+    "prevWork": {
+        "id": "anasilian",
+        "title": "Αnasilian"
+    },
+    "nextWork": {
+        "id": "apollonion",
+        "title": "Απολλώνιον Palace"
+    }
+}

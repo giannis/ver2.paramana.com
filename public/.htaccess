@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^(.*)$ http://www.paramana.com/$1 [R=301,L]
+</IfModule>

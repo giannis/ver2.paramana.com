@@ -1,0 +1,47 @@
+<div class="individualWork">
+    <div class="individualNav PageMoto">
+        <a href="work/%=prevWork.id%.html" class="prevIndWork navIndWork disabled fleft">
+            previous work
+            <span class="worksNav">%=prevWork.title%</span>
+        </a>
+        <div class="backtoGal fcenter PageTitle">
+            <a class="backtoGalLink" href="../work.html">back to gallery</a>
+        </div>
+        <a href="work/%=nextWork.id%.html" class="nextIndWork navIndWork fright">
+            next work
+            <span class="worksNav">%=nextWork.title%</span>
+        </a>
+    </div>
+    <div class="individualPost">
+        <h2>%=title%</h2>
+        %=maintext%
+        <h3>%=ui_technologies%</h3>
+        %=techstext%
+        <h3>Services</h3>
+        %=servicestext%
+        <h3>%=ui_visit_site%</h3>
+        %=bottomtext%
+    </div>
+    <div class="photoGallery">
+        <div class="photoFocus">
+            <img src="../images/work/%=id%/details/%=gallery[0]%" width="470" height="352" alt="" title="among the ants"/>
+            <div class="photoLoader loadindicator"><div></div></div>
+            <div class="itemShadow"></div>
+        </div>
+        <div class="thumbGallery">
+             %each([gallery])%
+                <div class="thumbItem%=$index == 0 ? " active" : ""%">
+                     <div class="itemLoader"></div>
+                     <div class="itemFoto">
+                        <img src="../images/work/%root([id])%/details/thumbs/%=$value%" width="145" height="109" alt="" />
+                    </div>
+                    <div class="itemWhite"></div>
+                    <div class="itemShadow">
+                        <a class="thumbItemLink" href="../images/work/%root([id])%/details/%=$value%"></a>
+                    </div>
+                </div>
+            %/each%
+        </div>
+    </div>
+    <div class="clearBoth"></div>
+</div>

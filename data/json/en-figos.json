@@ -1,0 +1,23 @@
+{
+    "id": "figos",
+    "title": "Figos Furnitures",
+    "keywords": "paramana, work, project, Figos Furnitures website, design & development",
+    "description": "Τhe website of Figos Furnitures was designed and developed by Paramana.com",
+    "maintext": "<p>This website aims to present and promote the Figos start-up's company products, mainly chairs and furniture for traditional greek restaurants.</p><p>A clean webdesign based on wooden textures and the company's creation. A photogallery with the company's products, driving map to the location, promotional brochure and a number of other strategic methods were implemented for the complete and effective presentation of the company.</p><p>The home-made paramana CMS, SLiM facilitates the maintanace and management of new products; a lightweight CMS ideal for small businesses.</p>",
+    "techstext": "XHTML, CSS, JavaScript, ΧΜL, PHP, MySQL, SLiM (Simple Lightweight Management)",
+    "servicestext": "Web Design & Development, Hosting, Maintainance",
+    "bottomtext": "See  the live website at <a href=\"http://figos-karekla.gr\">http://figos-karekla.gr &raquo; </a>",
+    "gallery": [
+        "figos0.jpg",
+        "figos1.jpg",
+        "figos2.jpg"
+    ],
+    "prevWork": {
+        "id": "apollonion",
+        "title": "Apollonion Palace"
+    },
+    "nextWork": {
+        "id": "delivericious",
+        "title": "Delivericious"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "id": "amongtheants",
+    "title": "Among the Ants",
+    "keywords": "paramana, work, project, among the ants website, design & development",
+    "description": "Τhe website of Among the Ants was designed and developed by Paramana.com",
+    "maintext": " <p>'Among the Ants' is a non-profit organisation commit in street art festivals..</p><p>Their dynamic page based on Wordpress presents their profile, announcements and photographic material all with in a fresh new theme designed especially for th 'Among the Ants'</p><p>News feeds fro Twitter, a newsletter and the wordpress' blogging system enhance the communication between the interested artists and the organisation, as well as facilitate the publication of the team's announcement on their events.</p>",
+    "techstext": "XHTML, CSS, JavaScript, ΧΜL, PHP, MySQL",
+    "servicestext": "Web Design & Development, Hosting",
+    "bottomtext": "See  the live website at <a href=\"http://amongtheants.paramana.com\">http://amongtheants.paramana.com &raquo; </a>",
+    "gallery": [
+        "amongtheants0.jpg",
+        "amongtheants1.jpg",
+        "amongtheants2.jpg"
+    ],
+    "prevWork": {
+        "id": "biribiri",
+        "title": "Biri Biri Band"
+    },
+    "nextWork": {
+        "id": "kstudios",
+        "title": "K Studios"
+    }
+}

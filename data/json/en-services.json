@@ -1,0 +1,67 @@
+{
+    "pageid": "services",
+    "title": "Services",
+    "keywords":"work of paramana.com, paramana projects, portfolio, websites, beautiful, functional, web design, web development, web services, clients",
+    "description":"We proud ourselves in designing bautiful and functional websites",
+    "moto" : "Everything about the web <br />you and your business",
+    "text": "See how Paramana can help you to consolidate at the World Wide Web.",
+    "servicesitems" : [
+        {
+            "id": "website",
+            "active" : "true",
+            "title" : "Website + Interaction",
+            "text" : " <p>We undertake the construction of your website and our main goal is always to offer a beautifull and functional site for you and your visitors.</p><p> With a wide range of applications, blogs, forums, cms's our work will meet your needs for direct contact with your remote visitors, customers and your target group of users.</p><p>The features offered by online social networks can help you to easily maintain a 'living website', which is automatically updated with your news.</p>"
+        },
+        {
+            "id": "hosting",
+            "title" : "Hosting + Domain Name",
+            "text" : "<p>Paramana.com can help you buy the domain name you wish, as well as help you with its selectionin order to be as memorable as possible to your clients.</p><p>We offer hosting at the lowest prices in the market, with a basic package of 100MB, unlimited e-mail accounts and technical support.</p>"
+        },
+        {
+            "id": "seo",
+            "title" : "SEO + Statistics",
+            "text" : "<p>We make sure our final work meets all web standards and is cross-browser compatible;while at the same time our code is optimized for search engines, so that interested users can easily access your website.</p><p>We apply all known techniques and methods so that your site appears at the higher possible position in the serch engines' results, according to the ammount of time and budget you are willing to invest.</p><p>We use the latest available technologies for traffic measuring and navigation statistics, so that you can always have an overview of your website's number of visitors and their navigation patterns.</p>"
+        },
+        {
+            "id": "eshop",
+            "title" : "E-shop + Product Galleries",
+            "text" : "<p>For companies that wish to promote their products through online shopping, hotels that are turning to online reservations and restaurants asking the convenience of online ordering, we have many different online solutions to recommend.</p><p>In addition we offer interactive product catalogs that help users to attach the productsthat are interested in and request information easily.</p>"
+        },
+        {
+            "id": "maintainance",
+            "title" : "Μaintainance + Αdministration",
+            "text" : "<p>The maintenance of your website, the eurhythmy of your e-mail, the renewal of your images and texts is fully under our supervision throughout the construction of your website for one month after the completion.</p><p>Paramana can take debt management of the entire content of your business website for as much time as you ask for.</p>"
+        },
+        {
+            "id": "consulting",
+            "title" : "Consulting + Advertising",
+            "text" : "<p>If you already own a website and you want to improve the appearance and usability take advantage of consulting services we offer, with documented research on usability and user friendliness.</p><p>For internet advertising campaigns, we conduct research on best techniques that will increase the visibility and therefore traffic of your site.</p><p>In addition, we can design your business cards and brochures for your products upon request.</p>"
+        }
+    ],
+    "banners" : [
+        {
+            "id" : "slim",
+            "title" : "<span style='color:#D553DF'>SLiM</span>",
+            "icon"  : "images/banners/slim.png",
+            "subtitle" : "Smart Lightweight Management",
+            "text" : "Smart, fast and inexpensive content management systems for small websites.",
+            "links" : "<a href=\"contact.html\">Contact us for further details &raquo;</a>"
+        },
+        {
+            "id" : "easyRoom",
+            "title" : "<span style='color:#387F1C'>Easy Room</span>",
+            "icon"  : "images/banners/easyroom.png",
+            "subtitle" : "Ideal Booking system for hotels and room rentals.",
+            "text" : "Ιδανικό Σύστημα κρατήσεων για μικρά ξενοδοχεία και μονάδες ενοικιαζόμενων δωματίων.",
+            "links" : "<a href=\"contact.html\">Contact us for further details &raquo;</a> <br /><a href=\"work/apollonion.html\">View samples &raquo;</a>"
+        },
+        {
+            "id" : "delicious",
+            "title" : "<span style='color:#AE6200'>Delicious</span>",
+            "icon"  : "images/banners/food.png",
+            "subtitle" : "Online Παραγγελιοληψία",
+            "text" : "Online ordering and menu management for food-delivery restaurants.",
+            "links" : "<a href=\"contact.html\">Contact us for further details &raquo;</a> <br /><a href=\"work/delivericious.html\">View samples &raquo;</a>"
+        }
+    ]
+}

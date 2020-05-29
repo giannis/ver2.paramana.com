@@ -1,0 +1,17 @@
+{
+    "ui_visit_site"            : "Επισκεφθειτε το site:",
+    "ui_technologies"          : "Τεχνολογίες",
+    "ui_readmore"              : "διαβάστε περισσότερα",
+    "ui_nameContact"           : "Όνομα",
+    "ui_emailContact"          : "Το e-mail σας",
+    "ui_phoneContact"          : "Το τηλεφωνό σας",
+    "ui_messageContact"        : "Το μήνυμά σας:",
+    "ui_sendContact"           : "Αποστολή",
+    "ui_clicktomap"            : "κλικ για google map",
+    "ui_nameContactError"      : "Το όνομα είναι απαραίτητο",
+    "ui_emailContactError"     : "Το email είναι απαραίτητο",
+    "ui_emailContactWrong"     : "Το email είναι λάθος",
+    "ui_phoneContactError"     : "Το τηλέφωνο είναι λάθος",
+    "ui_messageContactError"   : "Το μήνυμά σας είναι κενό",
+    "ui_messageContactShort"   : "Το μήνυμά σας είναι πολύ μικρό"
+}
